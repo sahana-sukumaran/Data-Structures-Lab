@@ -1,4 +1,4 @@
-//program to impliments list adt using a singly linked list
+//program to implements list adt using a singly linked list
 
 #include <cstdio>
 #include <cstdlib>
