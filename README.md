@@ -1,2 +1,4 @@
 # Data-Structures-Lab
-Collection of data structures lab questions with solutions.
+
+This repository contains data structure-related questions along with their corresponding solutions.
+Each question is organized in its own folder, and includes a README.md file with the problem description and the solution code.
