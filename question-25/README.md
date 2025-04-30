@@ -4,5 +4,5 @@ Add a "construct expression tree" method to the binary tree data structure from 
 2. Construct Expression Tree
 3. Preorder
 4. Inorder
-5.Search
-6.Exit
+5. Search
+6. Exit
