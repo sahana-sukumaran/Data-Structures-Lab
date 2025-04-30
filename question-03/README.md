@@ -1,3 +1,4 @@
+Problem statement:
 Write a C++ menu-driven program to determine whether a number is a Palindrome, Armstrong, or Perfect Number. Normal variable and array declarations are not allowed. Utilize dynamic memory allocation (DMA). Design proper functions, maintain boundary conditions, and follow coding best practices. The menu is as follows,
 a. Palindrome
 b. Armstrong Number
